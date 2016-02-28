@@ -1,0 +1,8 @@
+packages/*
+static_carousel/bin/*
+static_carousel/obj/*
+Droid/bin/*
+Droid/obj/*
+iOS/bin/*
+iOS/obj/*
+
